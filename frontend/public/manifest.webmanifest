@@ -1,0 +1,9 @@
+{
+  "name": "INAV Multi-Board Configurator",
+  "short_name": "INAV Config",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#081226",
+  "icons": []
+}
